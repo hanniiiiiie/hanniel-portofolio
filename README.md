@@ -7,7 +7,7 @@ I am a Statistics and Computer Science student at the University of Ottawa, pass
 - Financial analysis and statistical modeling
 
 ## Projects
-### Time Series Analysis of GDP and Unemployment
+### [Time Series Analysis of GDP and Unemployment](https://github.com/hanniiiiiie/hanniel-portofolio/blob/e5b41f38437f1887fd3c6f72128a46eaae04b45b/Projet2_MAT3779_Groupe10.Rmd)
 - ARMA modeling and cross-correlation analysis on macroeconomic data.
 
 ### Option Pricing: GARCH vs Black-Scholes
