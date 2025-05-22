@@ -3,7 +3,7 @@ I am a Statistics and Computer Science student at the University of Ottawa, pass
 
 ## Technical Skills
 - R (rugarch, forecast)
-- SAS, Java
+- SAS, Java, Python
 - Financial analysis and statistical modeling
 
 ## Projects
